@@ -3,13 +3,13 @@ fun main() {
 
     for (number in listNumber) {
         // TODO 1
-        if (number % 2 == 0) continue
+        if (number % 2 != 1) continue
 
         // TODO 2
         if (number > 10) break
 
         // TODO 3
-        val result= (2 + number) * number
+        val result= ((2 + number) * number)
         println("result is $result")
     }
 }

@@ -1,6 +1,6 @@
 // main function
 fun main() {
-    val name = "Alfian Satria Vivaldi Payu"
+    val name = "Alfian"
 
     print("Hello my name is ")
     println(name)

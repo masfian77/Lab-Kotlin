@@ -70,6 +70,36 @@
       <module name="Memulai_Pemrograman_dengan_Kotlin.Control_Flow-While_and_Do_While-Infinite_While.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Control_Flow-While_and_Do_While-While.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Control_Flow-While_and_Do_While-While.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Channels-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Channels-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.Default.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.Default.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.IO.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.IO.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.Unconfined.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Dispatcher.Unconfined.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Single_Thread_Context.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Single_Thread_Context.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Thread_Pool.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Coroutine_Dispatcher-Thread_Pool.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_4.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_4.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_5.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Job_dan_Deferred-Contoh_5.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Latihan-Latihan.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Latihan-Latihan.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Coroutines-Memulai_Coroutine-Contoh_3.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Data_Class_dan_Collections-Collections-Collections.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Data_Class_dan_Collections-Collections-Collections.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Data_Class_dan_Collections-Collections-Maps.main" target="1.8" />
@@ -156,6 +186,16 @@
       <module name="Memulai_Pemrograman_dengan_Kotlin.Functional-Vararg_Argument-Contoh_2.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Functional-Vararg_Argument-Contoh_3.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Functional-Vararg_Argument-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Generics-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Latihan-Latihan.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Latihan-Latihan.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Variance-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Generics-Variance-Contoh.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Kotlin_Fundamental-Boolean-Conjuction.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Kotlin_Fundamental-Boolean-Conjuction.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Kotlin_Fundamental-Boolean-Disjunction.main" target="1.8" />
@@ -216,6 +256,56 @@
       <module name="Memulai_Pemrograman_dengan_Kotlin.Membangun_dan_Menjalankan_Program_Kotlin-Latihan-Latihan_2.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Membangun_dan_Menjalankan_Program_Kotlin-Program_Pertama_Kotlin-Hello_Kotlin.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.Membangun_dan_Menjalankan_Program_Kotlin-Program_Pertama_Kotlin-Hello_Kotlin.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Abstract_Class-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Abstract_Class-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Classes-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Classes-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_4.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Constructor-Contoh_4.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Exception_Handling-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Extension_Properties-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Extension_Properties-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_3.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Import_dan_Packages-Contoh_3.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Inheritances-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Inheritances-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Interfaces-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Interfaces-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Latihan-Latihan.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Latihan-Latihan.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Object_Everywhere-Contoh_1.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Object_Everywhere-Contoh_1.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Object_Everywhere-Contoh_2.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Object_Everywhere-Contoh_2.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Overloading-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Overloading-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Properties-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Properties-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Property_Delegation-Contoh.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Property_Delegation-Contoh.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-internal.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-internal.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-private.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-private.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-protected.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-protected.test" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-public.main" target="1.8" />
+      <module name="Memulai_Pemrograman_dengan_Kotlin.Object-Oriented-Visibility_Modifiers-public.test" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.util.main" target="1.8" />
       <module name="Memulai_Pemrograman_dengan_Kotlin.util.test" target="1.8" />
     </bytecodeTargetLevel>

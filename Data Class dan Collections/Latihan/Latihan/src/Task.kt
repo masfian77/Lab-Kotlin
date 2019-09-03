@@ -14,10 +14,9 @@ fun main() {
 
 
     // TODO 3
-    
-    println("User")
-    println("Name: $name")
-    println("Age: $age")
-    println("Address: $address")
+    println("""User
+        |Name: $name
+        |Age: $age
+        |Address: $address""".trimMargin())
 
 }

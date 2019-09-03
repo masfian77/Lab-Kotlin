@@ -12,6 +12,6 @@ class Bird(override val numberOfWings: Int) : IFly {
 
 
 fun main() {
-    val bird = Bird(0)
+    val bird = Bird(2)
     bird.fly()
 }
